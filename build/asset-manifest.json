@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.aba1f86f.css",
+    "main.js": "/static/js/main.3ad2aa12.js",
+    "static/media/haciendashort.mp4": "/static/media/haciendashort.0ab29ced6eb17249803d.mp4",
+    "static/media/room1.jpg": "/static/media/room1.8464d668f213ee79adbd.jpg",
+    "static/media/upperlevel.jpg": "/static/media/upperlevel.bfb0c91c634dfb3e8aec.jpg",
+    "static/media/mexicancelebration.jpg": "/static/media/mexicancelebration.8dc3fa36b9363df4c623.jpg",
+    "static/media/misstlaxcala2.jpg": "/static/media/misstlaxcala2.87a2d0b39a1776bfb9c1.jpg",
+    "static/media/keywest.jpg": "/static/media/keywest.1e30514942c6f50bea09.jpg",
+    "static/media/secondfloor.jpg": "/static/media/secondfloor.8fb1a65357a70d93e3a7.jpg",
+    "static/media/dinnertable3.jpg": "/static/media/dinnertable3.9ce91d559bd08209daf4.jpg",
+    "static/media/maldives2.jpg": "/static/media/maldives2.ee088b6ef17100d7f85f.jpg",
+    "static/media/dinnertable.jpg": "/static/media/dinnertable.ecea56e3223f6bf63fd5.jpg",
+    "static/media/borabora.jpg": "/static/media/borabora.e6c4841f299365fdfa10.jpg",
+    "static/media/businessevents2.jpg": "/static/media/businessevents2.110606f216e65c33ce09.jpg",
+    "static/media/borabora2.jpg": "/static/media/borabora2.726ded1de37915f83c71.jpg",
+    "static/media/maldives.jpg": "/static/media/maldives.6912181c1b1fc6c5fa6f.jpg",
+    "static/media/weedingdinner2.jpg": "/static/media/weedingdinner2.4ce2c85c739ab67d7876.jpg",
+    "static/media/frontphoto.jpg": "/static/media/frontphoto.90b0cf7a1c0783a39c8b.jpg",
+    "static/media/maldives3.jpg": "/static/media/maldives3.9c3058f9a039c5a102a8.jpg",
+    "static/media/weedingkiss.jpg": "/static/media/weedingkiss.721ac913404104106147.jpg",
+    "static/media/entrance.jpg": "/static/media/entrance.7ae1febde6bafe946836.jpg",
+    "static/media/churchkeys.jpg": "/static/media/churchkeys.46e604e5e33a2b7caa7f.jpg",
+    "static/media/gold.png": "/static/media/gold.42f7d8f40c346adfe3a7.png",
+    "index.html": "/index.html",
+    "main.aba1f86f.css.map": "/static/css/main.aba1f86f.css.map",
+    "main.3ad2aa12.js.map": "/static/js/main.3ad2aa12.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aba1f86f.css",
+    "static/js/main.3ad2aa12.js"
+  ]
+}
